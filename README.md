@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/zouaghiwadii/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:zouaghi.wadii69@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
   <a href="https://profile.hackthebox.com/profile/01a0f913-281c-72a9-8c7f-9dc60747923d"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"></a>
   <a href="https://tryhackme.com/p/t0x1c2r00t"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
   <a href="https://ctftime.org/user/72627"><img alt="CTFtime" src="https://img.shields.io/badge/CTFtime-C8102E?style=for-the-badge&logoColor=white"></a>
